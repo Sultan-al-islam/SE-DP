@@ -1,3 +1,4 @@
+// Bill Pugh’s Singleton
 public class Singleton4 {
     private Singleton4() {
     }
