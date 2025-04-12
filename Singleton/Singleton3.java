@@ -1,3 +1,4 @@
+//use volatile
 public class Singleton3 {
     private static volatile Singleton3 instance;
 
